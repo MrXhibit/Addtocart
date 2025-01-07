@@ -1,0 +1,147 @@
+[
+    {
+        "id":89,
+        "name":"Farmers pick",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+        "latest":"No"
+    },
+    {
+        "id":124,
+        "name":"Dosa",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Dosa",
+        "pic":"https://www.app.tutorjoes.in/img/food/124.jpg",
+        "latest":"No"
+    },
+    {
+        "id":26,
+        "name":"Pasta",
+        "amt":"150",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/26.jpg",
+        "latest":"No"
+    },
+    {
+        "id":9,
+        "name":"Chicken 65",
+        "amt":"100",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/9.jpg",
+        "latest":"No"
+    },
+    {
+        "id":80,
+        "name":"Valcano pizza",
+        "amt":"499",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/80.jpg",
+        "latest":"No"
+    },
+    {
+        "id":28,
+        "name":"Orange juice",
+        "amt":"99",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/28.jpg",
+        "latest":"No"
+    },
+    {
+        "id":67,
+        "name":"farmers pick",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/67.jpg",
+        "latest":"No"
+    },
+    {
+        "id":120,
+        "name":"Bowl pasta",
+        "amt":"199",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/120.jpg",
+        "latest":"No"
+    },
+    {
+        "id":20,
+        "name":"Noodles",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/20.jpg",
+        "latest":"No"
+    },
+    {
+        "id":133,
+        "name":"chessey chicken",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/133.jpg",
+        "latest":"No"
+    },
+    {
+        "id":130,
+        "name":"Punjabi chicken",
+        "amt":"399",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/130.jpg",
+        "latest":"No"
+    },
+    {
+        "id":71,
+        "name":"pick",
+        "amt":"399",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/71.jpg",
+        "latest":"No"
+    },
+    
+    {
+        "id":58,
+        "name":"Honey cake",
+        "amt":"100",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/58.jpg",
+        "latest":"No"
+    },
+    {
+        "id":113,
+        "name":"curd",
+        "amt":"99",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/113.jpg",
+        "latest":"No"
+    },
+    {
+        "id":82,
+        "name":"Valcano pizza",
+        "amt":"499",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/82.jpg",
+        "latest":"No"
+    },
+    {
+        "id":64,
+        "name":"brownie",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/64.jpg",
+        "latest":"No"
+    }
+]
